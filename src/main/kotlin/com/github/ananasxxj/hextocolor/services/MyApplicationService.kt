@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ananasxxj.hextocolor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ananasxxj.hextocolor.MyBundle
 
 class MyApplicationService {
 
